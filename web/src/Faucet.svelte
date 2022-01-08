@@ -73,12 +73,21 @@
               <span class="navbar-item">
                 <a
                   class="button is-white is-outlined"
-                  href="https://github.com/BlockChain-Station"
+                  href="https://blockchainstation.io"
                 >
                   <span class="icon">
-                    <i class="fa fa-github" />
+                    <i class="fad fa-home" />
                   </span>
-                  <span>View Source</span>
+                  <span>Website</span>
+                </a>
+                <a
+                  class="button is-white is-outlined"
+                  href="https://discord.gg/seaRMnETNm"
+                >
+                  <span class="icon">
+                    <i class="fab fa-discord" />
+                  </span>
+                  <span>Discord</span>
                 </a>
                 <a
                   class="button is-white is-outlined"
@@ -87,7 +96,7 @@
                   <span class="icon">
                     <i class="fa fa-github" />
                   </span>
-                  <span>View Source</span>
+                  <span>Github</span>
                 </a>
               </span>
             </div>
